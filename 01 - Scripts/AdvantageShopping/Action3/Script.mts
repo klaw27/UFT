@@ -1,4 +1,4 @@
-﻿'PRUEBA GIT - Cambio nube
+﻿'PRUEBA GIT - Pull cambios en la nube
 
 strIdentificador = DataTable("nombrePrueba", dtGlobalSheet)
 
